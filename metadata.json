@@ -1,0 +1,5 @@
+{
+  "name": "Nunn: AI Crime Investigation Assistant",
+  "description": "An AI-powered virtual investigation assistant that analyzes crime data to suggest new leads, identify patterns, and provide potential hypotheses to help solve cases.",
+  "requestFramePermissions": []
+}
